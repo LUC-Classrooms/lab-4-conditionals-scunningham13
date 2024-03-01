@@ -7,11 +7,13 @@ In this lab, we see the following block of code already set up for you in the ``
 ```javascript
   if(mouseIsPressed){ // true or false?
     // if true, change the fill color here
-    
+    fill(178, 15, 30);
+
   }
+
   else { 
     // otherwise do this:
-    
+  
   }
   ellipse(width/2, height/2, 100, 100);
 ```
